@@ -8,7 +8,7 @@ My Techs & Knowledges:
 
 Cyber Security Certifications:
 
-<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" width=10% height=10%><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=10% height=10%>
+<a href="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" width=10% height=10%><a href="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"><img"https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png">
 
 Contact me on... <br>
 
