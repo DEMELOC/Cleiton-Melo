@@ -1,4 +1,4 @@
-<b>I am Cleiton, 43 years old senior profissional from Quality & Projects area, studyng Pytho to applying at Cyber Security!<b/>
+<b>I am Cleiton, 43 years old senior profissional from Quality & Projects area, studyng Python to applying at Cyber Security!<b/>
 
 ![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=destinyendless&show_icons=true&theme=dark)
 
