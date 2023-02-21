@@ -1,6 +1,10 @@
-<b>I am Cleiton, 43 years old senior profissional from Quality & Projects area, studyng Python to applying at Cyber Security!<b/>
+I am Cleiton, 43 years old senior profissional from Quality & Projects area, studyng Python to applying at Cyber Security!
 
 ![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=destinyendless&show_icons=true&theme=dark)
+
+My Techs & Knowledges
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 Contact me on... <br>
 
