@@ -11,8 +11,6 @@ Cyber Security Certifications:
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=remcrGHHKFzEpecZ4DErX106ZnMxJqW2TUZrTjJi3Y0="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" width=10% height=10%> <a href="https://www.credly.com/badges/d555f585-6ba2-4b1e-8949-6727d994780d"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=10% height=10%>
 
 Contact me on... <br>
-
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><br>
  
 <a href="mailto:cleitonmoraisdemelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
