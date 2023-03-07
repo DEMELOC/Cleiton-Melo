@@ -12,7 +12,7 @@ Cyber Security Certifications:
 
 Contact me on... <br>
 
-<a aria-label="Chat on WhatsApp" href="https://wa.me/5519971014482"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.svg"/> <br>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/5519971014482"> <img alt="Chat on WhatsApp" src="C:\Users\Cleiton Melo\Downloads\300768190_383340503990757_1334850925137629076_n\ChatOnWhatsAppButton\WhatsAppButtonGreenSmall"/> <br>
  
 <a href="mailto:cleitonmoraisdemelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
