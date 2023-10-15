@@ -1,6 +1,10 @@
 I am Cleiton, 43 years old senior profissional from Quality / Project at automotive organizations, studying Coding, Cyber Security and Data Science!
 
-![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=destinyendless&show_icons=true&theme=dark)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMELOC&layout=compact&langs_count=7&theme=shadow_blue"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DEMELOC&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+</div>
 
 My Techs & Knowledges:
 
